@@ -1,0 +1,36 @@
+baseurl = "http://codefather.org"
+
+languageCode = "en-us"
+
+title = "CodeFather"
+
+author = "Pouriya Jahanbakhsh"
+
+canonifyurls = true
+
+languagecode = "en"
+
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+copyRight = "2019 © Pouriya Jahanbakhsh"
+
+[params]
+  sitename = "CodeFather"
+  disableWebFonts = false
+  siteGitURL = "https://github.com/pouriya-jahanbakhsh/codefather.org"
+
+[[menu.main]]
+    name = "About"
+    url  = "/about"
+
+[[menu.main]]
+    name = "Contributions"
+    url  = "/contributions"
+
+[[menu.main]]
+    name = "OSS"
+    url  = "/oss"
+
