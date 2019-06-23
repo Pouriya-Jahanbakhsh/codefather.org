@@ -3,6 +3,7 @@ title = "OSS"
 date  = 2019-01-01T00:00:00
 +++
 
+I do love coding things and especially building OSS (Open-Source Software).<br/><br/><br/>
 
 ### <a href="https://github.com/emeter" target="_blank" style="color:#204A87">EMeter </a><iframe src="https://ghbtns.com/github-btn.html?user=emeter&repo=emeter&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 Fast and pluginable monitoring tool for Erlang ecosystem. <br/><br/><br/>
@@ -29,5 +30,5 @@ Blazingly fast Erlang/Elixir hooking library. <br/><br/><br/>
 Erlang/Elixir Generic firewall process. <br/><br/><br/>
 
 ### <a href="https://github.com/pouriya-jahanbakhsh/pcommit" target="_blank" style="color:#204A87">pcommit </a><iframe src="https://ghbtns.com/github-btn.html?user=pouriya-jahanbakhsh&repo=pcommit&type=star&count=true" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
-Python script that handle my Git messages.
+Python script that handle my Git commit messages.
 
