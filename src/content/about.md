@@ -1,5 +1,6 @@
 +++
 title = "About"
+date  = 2019-01-01T00:00:00
 +++
 
 {{< highlight python >}}
@@ -66,4 +67,9 @@ class About:
     def phone_number():
         return "+989195458500"
 
+    def github(self):
+        return "https://github.com/pouriya-jahanbakhsh"
+
 {{< / highlight >}}
+
+
