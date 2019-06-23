@@ -17,6 +17,9 @@ pygmentscodefences  = true
 
 copyRight = "2019 © Pouriya Jahanbakhsh"
 
+googleAnalytics = "UA-142568701-1"
+
+
 [params]
   sitename = "CodeFather"
   disableWebFonts = false
