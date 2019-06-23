@@ -13,7 +13,7 @@ class About:
         return "Software Programmer"
 
     def programming_languages(self):
-        # Numbers show the ability to get things done
+        # The ability to get things done
         # min: 1 & max: 5
         return {
             "Erlang/OTP": 5,
@@ -29,13 +29,9 @@ class About:
         }
 
     def operating_systems(self):
-        # Numbers show the ability to get things done
-        # min: 1 & max: 5
         return {"FreeBSD": 4, "GNU/Linux": 3}
 
     def databases(self):
-        # Numbers show the ability to get things done
-        # min: 1 & max: 5
         return {
             "Cassandra": 3,
             "Influxdb":  3,
@@ -44,8 +40,6 @@ class About:
         }
 
     def message_brokers(self):
-        # Numbers show the ability to get things done
-        # min: 1 & max: 5
         return {
             "Ejabberd":   5,
             "MongooseIM": 3,
@@ -53,7 +47,6 @@ class About:
         }
 
     def techinal_skills(self):
-        
         return {
             "Functional programming":  4,
             "Socket programming":      4,
