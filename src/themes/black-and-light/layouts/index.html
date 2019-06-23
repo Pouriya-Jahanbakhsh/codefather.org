@@ -3,6 +3,8 @@
 <section id=content>
   <ul class=posts_listing>
     {{ range where .Pages.ByPublishDate "Title" "not in" (slice "About" "Contributions" "OSS") }}
+      <br/>
+      <br/>
       <li>
         <h2><a href="{{ .Permalink }}" target="_blank">{{ .Title }}</a></h2>
         <div id=date>
@@ -12,8 +14,6 @@
           <p>{{slicestr .Summary }} ... <b>[<a href="{{ .Permalink }}" target="_blank" style="color:#204A87">Read more</a>]</b></p>
         </div>
       </li>
-      <br/>
-      <br/>
     {{ end }}
   </ul>
 </section>
