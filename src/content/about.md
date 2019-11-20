@@ -55,9 +55,6 @@ class About:
             "Monitoring":              3
         }
 
-    def birthday(self):
-        return "1995/2/25"
-
     def country(self):
         return "Iran"
 
