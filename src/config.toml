@@ -37,3 +37,6 @@ googleAnalytics = "UA-142568701-1"
     name = "OSS"
     url  = "/oss"
 
+[[menu.main]]
+    name = "DONATE"
+    url  = "https://idpay.ir/codefather"
